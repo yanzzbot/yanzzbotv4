@@ -16,10 +16,10 @@
   "author": "affis junianto",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanzzbot/yanzzbotv4.git"
+    "url": "git+https://github.com/affisjunianto/botwasapv3/.git"
   },
   "bugs": {
-    "url": "https://github.com/yanzzbot/yanzzbotv4/issues"
+    "url": "https://github.com/affisjunianto/botwasapv3/issues"
   },
 "homepage": "https://github.com/affisjunianto/botwasapv3/readme",
 "license": "ISC",
