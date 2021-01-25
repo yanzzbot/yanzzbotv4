@@ -20,8 +20,8 @@ Penginstalannya cuy :)
 9) node index.js
 
 _Bisa kalian liat tutorialnya di_
-*Youtube kami:*
-https://www.youtube.com/c/Yanzz Official
+*Instagram kami:*
+https://Instagram.com/_zxuan54
 `.trim(), m)
 }
 handler.help = ['tutorial']
